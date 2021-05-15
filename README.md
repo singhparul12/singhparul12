@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @singhparul12
+- 👋 Hi, I’m Parul Singh
 - 👀 I’m interested in Web Developent and competitive coding.
 - 🌱 I’m currently learning React.js
-- 📫 How to reach me Email id- singhparul120999@gmail.com
+- 📫 Email id- singhparul120999@gmail.com
 
 <!---
 singhparul12/singhparul12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
