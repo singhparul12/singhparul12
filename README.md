@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @singhparul12
 - 👀 I’m interested in Web Developent and competitive coding.
 - 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Email id- singhparul120999@gmail.com
 
 <!---
